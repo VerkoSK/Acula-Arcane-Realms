@@ -8,7 +8,17 @@
             "updateType": "minor_breaking",
             "promotions": {
                 "downloads": {
-                    "curseforge": ""
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-arcane-realms"
+                }
+            }
+        },
+        {
+            "id": "0.1.0",
+            "releasedAt": 1745172000000,
+            "updateType": "major",
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://www.curseforge.com/minecraft/modpacks/acula-arcane-realms"
                 }
             }
         }
