@@ -1,0 +1,61 @@
+**Updated:**
+- Balm (Fabric Edition)
+- JamLib
+- FancyMenu
+- Spell Engine
+- Fabric API
+- Collective
+- More RPG Library
+- IceAndFire Community Edition
+- Not Enough Recipe Book [NERB]
+- Better Archeology
+- Polymorph (Fabric/Forge/Quilt)
+- Artifacts
+- FTB Quests (Fabric)
+- Jade 🔍
+- Rogues & Warriors (RPG Series)
+- Archers (RPG Series)
+- Waystones
+- TerraBlender (Fabric)
+- Supplementaries
+- Bookshelf
+- Simple Voice Chat
+- Better chunk loading[Forge/Fabric]
+- Paladins & Priests (RPG Series)
+- Structure Essentials[Forge/Fabric]
+- Wizards (RPG Series)
+- Moonlight Lib
+- Drippy Loading Screen
+- Chunk Sending[Forge/Fabric]
+- EMI
+
+
+**Added:**
+- End's Delight
+- oωo (owo-lib)
+- Iron Chests (Fabric)
+- Crash Assistant
+- More Delight (Fabric)
+- Rustic Delight
+- Biomes O' Plenty
+- Farmers Structures
+- Comforts (Fabric/Forge/Quilt)
+- Farmer's Cutting: Biomes O' Plenty
+- Pineapple Delight
+- NetherPortalFix
+- Fzzy Config
+- Dynamic FPS
+- FPS Reducer
+- Jupiter
+- Fusion (Connected Textures)
+- Continuity
+
+
+**Configs:**
+- Updated Version files
+
+
+Combinable with Server pack: v0.1.0
+
+
+**REMEMBER TO BACKUP BEFORE UPDATING**
